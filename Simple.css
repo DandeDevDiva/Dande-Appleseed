@@ -1,11 +1,10 @@
-
  
  body {
  margin: 0px;
  padding: 0px;
  border: 0px;
  color: #000;
- background: #fff;
+ background:Yellow;
  }
  html, body, p, th, td, li, dd, dt {
  font: 1em Arial, Helvetica, sans-serif;
